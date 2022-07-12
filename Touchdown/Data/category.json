@@ -1,0 +1,82 @@
+[
+  {
+    "id" : 1,
+    "name" : "Шлем",
+    "image" : "icon-helmet"
+  },
+  {
+    "id" : 2,
+    "name" : "Футболка",
+    "image" : "icon-jersey"
+  },
+  {
+    "id" : 3,
+    "name" : "Перчатки",
+    "image" : "icon-gloves"
+  },
+  {
+    "id" : 4,
+    "name" : "Обувь",
+    "image" : "icon-shoes"
+  },
+  {
+    "id" : 5,
+    "name" : "Подплечники",
+    "image" : "icon-shoulder-pads"
+  },
+  {
+    "id" : 6,
+    "name" : "Шорты",
+    "image" : "icon-integrated-pad-girdle"
+  },
+  {
+    "id" : 7,
+    "name" : "Мяч",
+    "image" : "icon-football"
+  },
+  {
+    "id" : 8,
+    "name" : "Верхняя одежда",
+    "image" : "icon-outerwear"
+  },
+  {
+    "id" : 9,
+    "name" : "Билет",
+    "image" : "icon-ticket"
+  },
+  {
+    "id" : 10,
+    "name" : "Трофей",
+    "image" : "icon-trophy"
+  },
+  {
+    "id" : 11,
+    "name" : "Энергетик",
+    "image" : "icon-energy-drink"
+  },
+  {
+    "id" : 12,
+    "name" : "СИЗ Маска для лица",
+    "image" : "icon-ppe-facemask"
+  },
+  {
+    "id" : 13,
+    "name" : "Одежда для черлидинга",
+    "image" : "icon-cheerleading-clothes"
+  },
+  {
+    "id" : 14,
+    "name" : "Черлидинг Перчатки",
+    "image" : "icon-cheerleading-gear"
+  },
+  {
+    "id" : 15,
+    "name" : "Свисток",
+    "image" : "icon-whistle"
+  },
+  {
+    "id" : 16,
+    "name" : "Секундомер",
+    "image" : "icon-stopwatch"
+  }
+]
